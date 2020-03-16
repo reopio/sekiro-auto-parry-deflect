@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\gejifeng\source\repos\sekiro\sekiro\main.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\gejifeng\source\repos\sekiro\sekiro\main.cpp(98,20): warning C4838: conversion from '__int64' to 'BYTE' requires a narrowing conversion
+C:\Users\gejifeng\source\repos\sekiro\sekiro\main.cpp(98,31): warning C4305: 'initializing': truncation from '__int64' to 'BYTE'
+C:\Users\gejifeng\source\repos\sekiro\sekiro\main.cpp(98,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\gejifeng\source\repos\sekiro\sekiro\main.cpp(99,8): warning C4101: 'oldprotect': unreferenced local variable
+C:\Users\gejifeng\source\repos\sekiro\sekiro\main.cpp(70,3): warning C4101: 'add1': unreferenced local variable
+  sekiro.vcxproj -> C:\Users\gejifeng\source\repos\sekiro\x64\Debug\sekiro.exe
